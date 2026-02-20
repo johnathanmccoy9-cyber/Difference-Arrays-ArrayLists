@@ -4,7 +4,7 @@ An array is basically a fixed-size container that can hold multiple elements of 
 
 On the other hand, an ArrayList is more flexible because it can grow or shrink as needed. You don’t have to decide how many elements it will hold ahead of time. Instead, you can use built-in methods like add(), remove(), and size() to manage the data dynamically. One difference is that ArrayLists store objects instead of primitive types, which is why you use something like Integer instead of int.
 
-A good comparison of an array is assigned seating in a movie theater. Once every seat is taken, you cannot add another person without creating a new row and moving everyone over to make space. An ArrayList, on the other hand, is more like a shopping cart at a grocery store. You can add or remove items as needed, and the cart automatically adjusts to hold whatever you put into it without requiring you to reorganize everything into a new container.&nbsp;
+A good comparison of an array is assigned seating in a movie theater. Once every seat is taken, you cannot add another person without creating a new row and moving everyone over to make space. An ArrayList, on the other hand, is more like a shopping cart at a grocery store. You can add or remove items as needed, and the cart automatically adjusts to hold whatever you put into it without requiring you to reorganize everything into a new container.
 
 Overall, I would use an array if the size of the data is known in advance, and an ArrayList if I need something more flexible that can adjust as the program runs.
 
@@ -12,5 +12,5 @@ This project was developed using Eclipse IDE and version controlled using Git, w
 
 Feel free to take a look at my project here:
 
-GitHub Repository:
-https://github.com/johnathanmccoy9-cyber/Difference-Arrays-ArrayLists
+GitHub Repository:    
+[Difference-Arrays-ArrayLists](https://github.com/johnathanmccoy9-cyber/Difference-Arrays-ArrayLists)
